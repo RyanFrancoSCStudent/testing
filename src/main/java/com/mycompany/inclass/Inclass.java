@@ -11,6 +11,6 @@ package com.mycompany.inclass;
 public class Inclass {
 
     public static void main(String[] args) {
-        System.out.println("Hello World! this is version 1 ");
+        System.out.println("Hello World! this is version 2 ");
     }
 }
